@@ -1,0 +1,44 @@
+body{
+    box-sizing: border-box;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:darkslategray;
+    color: white;
+}
+
+.digit{
+    font-size: 150px;
+    font-weight: 800;
+}
+
+.txt{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.btn-div{
+    text-align: center;
+}
+
+.btn{
+    padding: 15px 40px;
+    margin: 10px 30px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+#str{
+    background-color: chartreuse;
+}
+
+#stp{
+    background-color: brown;
+}
+
+#reset{
+    background-color: chocolate;
+}
